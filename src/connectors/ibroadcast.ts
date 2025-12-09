@@ -11,7 +11,7 @@ Connector.albumSelector = '.mgr-player-album';
 Connector.currentTimeSelector = '.mgr-player-current-time';
 
 Connector.durationSelector = '.mgr-player-duration';
-
+ 
 Connector.trackArtSelector = '.mgr-player-artwork-image';
 
 Connector.loveButtonSelector = () =>
